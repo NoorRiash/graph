@@ -1,0 +1,1 @@
+{"name":"Local: C_Divine_Tree","url":"c:\\Users\\Lenovo\\Desktop\\algo\\graph\\questions\\C_Divine_Tree.cpp","tests":[{"id":1758721684332,"input":"2\n1 2\n4 6\n","output":"-1\n3\n3 1\n1 2\n2 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo\\Desktop\\algo\\graph\\questions\\C_Divine_Tree.cpp","group":"local","local":true}
