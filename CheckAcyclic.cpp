@@ -144,32 +144,6 @@ void solve2(){
         nod[x].push_back(y);
     }
 
-
-    // if i just want to check if there cycle or not
-    /*
-    for(int i=0;i<n;i++){
-        if(!vis[i]) dfs1(i);
-        if(f){
-            cout<<"there is a cycle"<<endl;
-            nl;
-        }
-    }
-    */
-
-
-    // if i want to print the cycle 
-    /*
-    f=0;
-    for(int i=0;i<n;i++){
-        if(!vis[i]) dfs2(0,i);
-        if(f){
-           
-            nl;
-        }
-    }
-    */
-
-
 }
 
 
@@ -185,5 +159,6 @@ int main(){
     }
     return 0;
 }
+
 
 
